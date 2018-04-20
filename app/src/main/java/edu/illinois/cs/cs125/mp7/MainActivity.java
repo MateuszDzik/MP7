@@ -12,16 +12,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        ImageButton map = (ImageButton) findViewById(R.id.map);
+
+        map.setOnClickListener(new View.OnClickListener() {
+                                          @Override
+                                          public void onClick(View v) {
+
+                                          }
+                                      }
+
+        );
     }
-
-    ImageButton pleaseWork = (ImageButton)findViewById(R.id.map);
-
-    pleaseWork.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View v) {
-
-        }
-    }
-
-    );
 }
