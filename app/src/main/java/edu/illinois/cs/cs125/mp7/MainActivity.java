@@ -14,9 +14,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        ImageButton map = (ImageButton) findViewById(R.id.map);
+        ImageButton earth = (ImageButton) findViewById(R.id.earth);
 
-        map.setOnClickListener(new View.OnClickListener() {
+        earth.setOnClickListener(new View.OnClickListener() {
                                           @Override
                                           public void onClick(View v) {
 
