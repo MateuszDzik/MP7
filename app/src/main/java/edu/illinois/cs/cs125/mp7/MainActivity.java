@@ -1,5 +1,6 @@
 package edu.illinois.cs.cs125.mp7;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -17,11 +18,12 @@ public class MainActivity extends AppCompatActivity {
         ImageButton earth = (ImageButton) findViewById(R.id.earth);
 
         earth.setOnClickListener(new View.OnClickListener() {
-                                          @Override
-                                          public void onClick(View v) {
-
-                                          }
-                                      }
+            @Override
+            public void onClick(View v) {
+                Intent openMain2 = new Intent(MainActivity.this, Main2Activity.class);
+                MainActivity.this.startActivity(openMain2);
+            }
+        }
 
         );
     }
