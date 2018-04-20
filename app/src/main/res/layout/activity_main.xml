@@ -19,8 +19,9 @@
 
     <ImageButton
         android:id="@+id/map"
-        android:layout_width="384dp"
-        android:layout_height="320dp"
+        android:layout_width="405dp"
+        android:layout_height="345dp"
+        android:src="@mipmap/ic_launcher_foreground"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
 </android.support.constraint.ConstraintLayout>
