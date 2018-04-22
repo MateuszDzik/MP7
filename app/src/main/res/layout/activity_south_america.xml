@@ -7,7 +7,7 @@
     tools:context=".SouthAmerica">
 
     <ImageButton
-        android:id="@+id/europe7"
+        android:id="@+id/brazil"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
@@ -20,7 +20,7 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/oceania7"
+        android:id="@+id/ecuador"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
@@ -33,7 +33,7 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/africa7"
+        android:id="@+id/argentina"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
@@ -46,7 +46,7 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/asia7"
+        android:id="@+id/bolivia"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="208dp"
@@ -59,7 +59,7 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/northAmerica7"
+        android:id="@+id/colombia"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="208dp"
@@ -72,7 +72,7 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/southAmerica7"
+        android:id="@+id/peru"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="208dp"
