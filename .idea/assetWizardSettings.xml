@@ -18,9 +18,9 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundLayerName" value="africaBack" />
+                                      <entry key="backgroundLayerName" value="africaback" />
                                       <entry key="foregroundImage" value="C:\Users\Mateusz\Desktop\africa.jpg" />
-                                      <entry key="foregroundLayerName" value="africaFore" />
+                                      <entry key="foregroundLayerName" value="africafore" />
                                       <entry key="outputName" value="africa" />
                                     </map>
                                   </option>
