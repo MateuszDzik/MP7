@@ -27,7 +27,38 @@
         <activity android:name=".Europe" />
         <activity android:name=".NorthAmerica" />
         <activity android:name=".Oceania" />
-        <activity android:name=".SouthAmerica"></activity>
+        <activity android:name=".SouthAmerica" />
+        <activity android:name=".Egypt" />
+        <activity android:name=".Kenya" />
+        <activity android:name=".Madagascar" />
+        <activity android:name=".Morocco" />
+        <activity android:name=".HongKong" />
+        <activity android:name=".India" />
+        <activity android:name=".Japan" />
+        <activity android:name=".Philippines" />
+        <activity android:name=".Taiwan" />
+        <activity android:name=".Vietnam" />
+        <activity android:name=".Denmark" />
+        <activity android:name=".France" />
+        <activity android:name=".Greece" />
+        <activity android:name=".Iceland" />
+        <activity android:name=".Italy" />
+        <activity android:name=".Spain" />
+        <activity android:name=".Canada" />
+        <activity android:name=".CostaRica" />
+        <activity android:name=".Cuba" />
+        <activity android:name=".Jamaica" />
+        <activity android:name=".Mexico" />
+        <activity android:name=".USA" />
+        <activity android:name=".Australia" />
+        <activity android:name=".Fiji" />
+        <activity android:name=".NewZealand" />
+        <activity android:name=".Argentina" />
+        <activity android:name=".Bolivia" />
+        <activity android:name=".Brazil" />
+        <activity android:name=".Colombia" />
+        <activity android:name=".Ecuador" />
+        <activity android:name=".Peru"></activity>
     </application>
 
 </manifest>
