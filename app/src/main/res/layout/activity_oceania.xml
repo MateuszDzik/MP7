@@ -7,7 +7,7 @@
     tools:context=".Oceania">
 
     <ImageButton
-        android:id="@+id/europe6"
+        android:id="@+id/australia"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
@@ -20,46 +20,7 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/oceania6"
-        android:layout_width="202dp"
-        android:layout_height="187dp"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="400dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_mapmode" />
-
-    <ImageButton
-        android:id="@+id/africa6"
-        android:layout_width="202dp"
-        android:layout_height="187dp"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="16dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_mapmode" />
-
-    <ImageButton
-        android:id="@+id/asia6"
-        android:layout_width="202dp"
-        android:layout_height="187dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginTop="16dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_mapmode" />
-
-    <ImageButton
-        android:id="@+id/northAmerica6"
+        android:id="@+id/fiji"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="208dp"
@@ -71,16 +32,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
-    <ImageButton
-        android:id="@+id/southAmerica6"
-        android:layout_width="202dp"
-        android:layout_height="187dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginTop="400dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_mapmode" />
 </android.support.constraint.ConstraintLayout>
