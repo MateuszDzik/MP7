@@ -21,7 +21,13 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAIKMV2O5Iy0dukZfS_DYMbOkb1Qd1HYF8" />
 
-        <activity android:name=".Continents"></activity>
+        <activity android:name=".Continents" />
+        <activity android:name=".Africa" />
+        <activity android:name=".Asia" />
+        <activity android:name=".Europe" />
+        <activity android:name=".NorthAmerica" />
+        <activity android:name=".Oceania" />
+        <activity android:name=".SouthAmerica"></activity>
     </application>
 
 </manifest>
