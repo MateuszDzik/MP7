@@ -18,9 +18,9 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundLayerName" value="ic_launcher_background" />
+                                      <entry key="backgroundLayerName" value="africaBack" />
                                       <entry key="foregroundImage" value="C:\Users\Mateusz\Desktop\africa.jpg" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground" />
+                                      <entry key="foregroundLayerName" value="africaFore" />
                                       <entry key="outputName" value="africa" />
                                     </map>
                                   </option>
