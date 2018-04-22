@@ -6,4 +6,81 @@
     android:layout_height="match_parent"
     tools:context=".Europe">
 
+    <ImageButton
+        android:id="@+id/europe5"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="208dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <ImageButton
+        android:id="@+id/oceania5"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="400dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <ImageButton
+        android:id="@+id/africa5"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <ImageButton
+        android:id="@+id/asia5"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="16dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <ImageButton
+        android:id="@+id/northAmerica5"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="208dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <ImageButton
+        android:id="@+id/southAmerica5"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="400dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
 </android.support.constraint.ConstraintLayout>
