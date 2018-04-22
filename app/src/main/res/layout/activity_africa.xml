@@ -7,11 +7,11 @@
     tools:context=".Africa">
 
     <ImageButton
-        android:id="@+id/europe3"
+        android:id="@+id/madagascar"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
-        android:layout_marginTop="208dp"
+        android:layout_marginTop="296dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_foreground"
@@ -20,11 +20,11 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/oceania3"
+        android:id="@+id/egypt"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
-        android:layout_marginTop="400dp"
+        android:layout_marginTop="100dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_foreground"
@@ -33,11 +33,11 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/africa3"
+        android:id="@+id/kenya"
         android:layout_width="202dp"
         android:layout_height="187dp"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="204dp"
+        android:layout_marginTop="100dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_foreground"
@@ -46,11 +46,11 @@
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
     <ImageButton
-        android:id="@+id/asia3"
+        android:id="@+id/morocco"
         android:layout_width="202dp"
         android:layout_height="187dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="204dp"
+        android:layout_marginTop="296dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_foreground"
@@ -58,29 +58,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
 
-    <ImageButton
-        android:id="@+id/northAmerica3"
-        android:layout_width="202dp"
-        android:layout_height="187dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginTop="208dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_mapmode" />
-
-    <ImageButton
-        android:id="@+id/southAmerica3"
-        android:layout_width="202dp"
-        android:layout_height="187dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginTop="400dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_mapmode" />
 </android.support.constraint.ConstraintLayout>
