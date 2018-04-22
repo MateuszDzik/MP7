@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
         earth.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent openMain2 = new Intent(MainActivity.this, Continents.class);
-                MainActivity.this.startActivity(openMain2);
+                Intent openCont = new Intent(MainActivity.this, Continents.class);
+                MainActivity.this.startActivity(openCont);
             }
         }
 
