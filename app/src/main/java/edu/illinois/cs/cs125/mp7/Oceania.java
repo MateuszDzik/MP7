@@ -36,5 +36,17 @@ public class Oceania extends AppCompatActivity {
         }
 
         );
+
+        ImageButton newZealand = (ImageButton) findViewById(R.id.newZealand);
+
+        newZealand.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent openNewZealand = new Intent(Oceania.this, NewZealand.class);
+                Oceania.this.startActivity(openNewZealand);
+            }
+        }
+
+        );
     }
 }

@@ -7,11 +7,24 @@
     tools:context=".Oceania">
 
     <ImageButton
+        android:id="@+id/newZealand"
+        android:layout_width="202dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="292dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <ImageButton
         android:id="@+id/australia"
         android:layout_width="202dp"
         android:layout_height="187dp"
         android:layout_marginStart="4dp"
-        android:layout_marginTop="208dp"
+        android:layout_marginTop="100dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_foreground"
@@ -23,8 +36,8 @@
         android:id="@+id/fiji"
         android:layout_width="202dp"
         android:layout_height="187dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginTop="208dp"
+        android:layout_marginStart="204dp"
+        android:layout_marginTop="100dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_foreground"
