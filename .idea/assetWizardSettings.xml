@@ -18,10 +18,10 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundLayerName" value="moroccoback" />
-                                      <entry key="foregroundImage" value="C:\Users\Mateusz\Desktop\morocco-map.gif" />
-                                      <entry key="foregroundLayerName" value="moroccofore" />
-                                      <entry key="outputName" value="morocco" />
+                                      <entry key="backgroundLayerName" value="vietnamback" />
+                                      <entry key="foregroundImage" value="C:\Users\Mateusz\Desktop\vietnam-map.gif" />
+                                      <entry key="foregroundLayerName" value="vietnamfore" />
+                                      <entry key="outputName" value="vietnam" />
                                     </map>
                                   </option>
                                 </PersistentState>
