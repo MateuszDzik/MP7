@@ -14,7 +14,7 @@
         android:layout_marginTop="208dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
+        android:src="@mipmap/brazilfore"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
@@ -27,7 +27,7 @@
         android:layout_marginTop="400dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
+        android:src="@mipmap/ecuadorfore"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
@@ -40,7 +40,7 @@
         android:layout_marginTop="16dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
+        android:src="@mipmap/argentinafore"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
@@ -53,7 +53,7 @@
         android:layout_marginTop="16dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
+        android:src="@mipmap/boliviafore"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
@@ -66,7 +66,7 @@
         android:layout_marginTop="208dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
+        android:src="@mipmap/colombiafore"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
@@ -79,7 +79,7 @@
         android:layout_marginTop="400dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_foreground"
+        android:src="@mipmap/perufore"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/ic_menu_mapmode" />
