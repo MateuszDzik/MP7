@@ -19,9 +19,9 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="irrelevanttbh" />
-                                      <entry key="foregroundImage" value="C:\Users\Mateusz\Desktop\the-united-states-of-america-map.gif" />
-                                      <entry key="foregroundLayerName" value="usafore" />
-                                      <entry key="outputName" value="usa" />
+                                      <entry key="foregroundImage" value="C:\Users\Mateusz\Desktop\new-zealand-map.gif" />
+                                      <entry key="foregroundLayerName" value="newzealandfore" />
+                                      <entry key="outputName" value="newzealand" />
                                     </map>
                                   </option>
                                 </PersistentState>
